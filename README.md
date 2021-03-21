@@ -7,3 +7,5 @@ This is my homework assingment for my class to create a password generator. The 
 ![JavaScript Password Generator](./assets/images/passwordgenerator.png)
 
 ## Link to Deployed Application
+
+[Github Pages Webpage](https://jagatston.github.io/JS-Password-Generator/.)
